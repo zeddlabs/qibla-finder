@@ -15,14 +15,14 @@ Here are the development steps to run this project on your computer.
 1. Give a star to this repo (optional).
 2. Clone this repo.
    ```sh
-   git clone https://github.com/zulfikarpinem/qibla-finder.git
+   git clone https://github.com/zeddlabs/qibla-finder.git
    ```
 3. Open from Android Studio.
 4. That's all.
 
 ## Authors
 
-- [Mhd Zulfikar Pinem](https://github.com/zulfikarpinem)
+- [Mhd Zulfikar Pinem](https://github.com/zeddlabs)
 - [Yusfi Syawali](https://github.com/Ysfii-Dev)
 
 ## License
