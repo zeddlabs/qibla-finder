@@ -6,7 +6,7 @@ Qibla Finder is an application that can be used to find out the Qibla direction 
 
 ### Installation
 
-Download APK [Here](https://github.com/zulfikarpinem/qibla-finder/releases/tag/v1.0.0)
+Download APK [Here](https://github.com/zeddlabs/qibla-finder/releases/tag/v1.0.0)
 
 Or
 
